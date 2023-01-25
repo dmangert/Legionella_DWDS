@@ -1,0 +1,115 @@
+﻿season,sample_num,flush,city,state,building,fixture,chlorine_type,source_water,total_chlorine,free_chlorine,hardness,alkalinity,pH,temp
+summer,1,first_flush,Austin,TX,house,bathroom_sink,combined,surface,0.5,0,120,120,7.8,26.7
+summer,1,mains,Austin,TX,house,bathroom_sink,combined,surface,2,0,120,80,8.4,30
+summer,2,first_flush,Clifton,VA,house,bathroom_sink,combined,surface,0,0,250,240,7.8,20
+summer,2,mains,Clifton,VA,house,bathroom_sink,combined,surface,1,0,250,240,7.8,23.7
+summer,3,first_flush,Reston,VA,house,bar_sink,combined,surface,0,0,250,180,7.2,16.7
+summer,3,mains,Reston,VA,house,bar_sink,combined,surface,2,0,250,80,7.8,22.7
+summer,4,first_flush,Centennial,CO,house,shower,combined,blend,0,0,250,240,7.8,22
+summer,4,mains,Centennial,CO,house,shower,combined,blend,0.5,0,120,80,7.8,20
+summer,5,first_flush,Chicago,IL,condominium,kitchen_sink,free,surface,0.5,0,250,180,7.8,22.2
+summer,5,mains,Chicago,IL,condominium,kitchen_sink,free,surface,1,0,250,120,7.8,21
+summer,6,first_flush,New York,NY,apartment,bathroom_sink,free,surface,0,0,50,80,6.8,23.3
+summer,6,mains,New York,NY,apartment,bathroom_sink,free,surface,0,0,25,40,6.8,23
+summer,7,first_flush,Pesotum,IL,house,shower,free,ground,0,0,50,180,7.8,17.9
+summer,7,mains,Pesotum,IL,house,shower,free,ground,0,0,50,180,7.8,19
+summer,8,first_flush,Astoria,NY,apartment,kitchen_sink,free,surface,0,0,50,80,6.8,22.5
+summer,8,mains,Astoria,NY,apartment,kitchen_sink,free,surface,0.5,0,50,40,6.8,20.8
+summer,9,first_flush,Bloomindale,NJ,house,bathroom_sink,free,surface,0,0,50,180,7.2,23.3
+summer,9,mains,Bloomindale,NJ,house,bathroom_sink,free,surface,0,0,50,120,6.8,21.9
+summer,10,first_flush,Bloomington,IN,house,kitchen_sink,combined,surface,1,0,250,120,7.2,23.5
+summer,10,mains,Bloomington,IN,house,kitchen_sink,combined,surface,4,0,120,80,7.2,24.2
+summer,11,first_flush,Dallas,TX,apartment,kitchen_sink,free,ground,0,0,425,120,7.8,19
+summer,11,mains,Dallas,TX,apartment,kitchen_sink,free,ground,4,0,425,120,7.8,18
+summer,12,first_flush,Newburgh,NY,house,bathroom_sink,free,surface,0,0,50,0,6.8,23.7
+summer,12,mains,Newburgh,NY,house,bathroom_sink,free,surface,0.5,0,50,80,6.8,23.4
+summer,13,first_flush,Livingston,MT,house,kitchen_sink,free,ground,0,0,50,240,8.4,19
+summer,13,mains,Livingston,MT,house,kitchen_sink,free,ground,0,0,50,240,7.8,15.5
+summer,14,first_flush,Truckee,CA,house,kitchen_sink,free,ground,0,0,120,240,8.4,16.7
+summer,14,mains,Truckee,CA,house,kitchen_sink,free,ground,0,0,50,120,7.2,14.5
+summer,15,first_flush,West Palm Beach,FL,house,bathroom_sink,combined,ground,0,0,120,80,7.2,22.2
+summer,15,mains,West Palm Beach,FL,house,bathroom_sink,combined,ground,0.5,0,120,80,7.2,24.5
+summer,16,first_flush,Tustin,CA,house,bathroom_sink,combined,ground,0.5,0,120,120,7.8,24.5
+summer,16,mains,Tustin,CA,house,bathroom_sink,combined,ground,2,0,120,180,7.8,26.7
+summer,17,first_flush,St. Petersburg,FL,apartment,kitchen_sink,combined,blend,0,0,120,240,8.4,26.6
+summer,17,mains,St. Petersburg,FL,apartment,kitchen_sink,combined,blend,4,0,250,180,7.8,27.6
+summer,18,first_flush,El Paso,TX,house,bathroom_sink,free,ground,1,0,120,240,8.4,19.5
+summer,18,mains,El Paso,TX,house,bathroom_sink,free,ground,2,0.5,120,80,7.2,26.7
+summer,19,first_flush,Long Beach,CA,apartment,tub_faucet,combined,blend,0,,120,180,7.8,21.3
+summer,19,mains,Long Beach,CA,apartment,tub_faucet,combined,blend,0,0,120,180,7.8,24.5
+fall,1,first_flush,Austin,TX,house,bathroom_sink,combined,surface,0,0,120,80,8.4,21.5
+fall,1,mains,Austin,TX,house,bathroom_sink,combined,surface,0.5,0,50,80,8.4,25
+fall,2,first_flush,Clifton,VA,house,bathroom_sink,combined,surface,0,0,250,240,7.8,21
+fall,2,mains,Clifton,VA,house,bathroom_sink,combined,surface,1,0,425,240,8.4,19.5
+fall,3,first_flush,Reston,VA,house,bar_sink,combined,surface,0,0,425,120,7.8,20
+fall,3,mains,Reston,VA,house,bar_sink,combined,surface,2,0,250,120,7.2,18
+fall,4,first_flush,Centennial,CO,house,shower,combined,blend,0,0,425,240,7.8,20.2
+fall,4,mains,Centennial,CO,house,shower,combined,blend,0.5,0,250,240,7.2,NaN
+fall,5,first_flush,Chicago,IL,condominium,kitchen_sink,free,surface,1,0,250,180,7.8,20
+fall,5,mains,Chicago,IL,condominium,kitchen_sink,free,surface,0.5,0,120,120,7.2,18
+fall,6,first_flush,New York,NY,apartment,bathroom_sink,free,surface,0,0,120,80,7.2,22
+fall,6,mains,New York,NY,apartment,bathroom_sink,free,surface,0,0,50,120,7.2,17
+fall,7,first_flush,Pesotum,IL,house,shower,free,ground,0,0,120,180,7.2,13.3
+fall,7,mains,Pesotum,IL,house,shower,free,ground,0,0,120,180,7.8,13.3
+fall,8,first_flush,Astoria,NY,apartment,kitchen_sink,free,surface,0,0,120,40,6.8,25
+fall,8,mains,Astoria,NY,apartment,kitchen_sink,free,surface,0.5,0,120,40,6.8,18
+fall,9,first_flush,Bloomindale,NJ,house,bathroom_sink,free,surface,0,0,120,80,7.2,21.1
+fall,9,mains,Bloomindale,NJ,house,bathroom_sink,free,surface,0,0,120,80,7.8,20.7
+fall,10,first_flush,Bloomington,IN,house,kitchen_sink,combined,surface,1,0,120,120,7.8,20.5
+fall,10,mains,Bloomington,IN,house,kitchen_sink,combined,surface,1,0,120,120,7.2,17.9
+fall,11,first_flush,Dallas,TX,apartment,kitchen_sink,free,ground,0,0,250,120,7.8,NaN
+fall,11,mains,Dallas,TX,apartment,kitchen_sink,free,ground,0.5,0,250,120,7.8,NaN
+fall,12,first_flush,Newburgh,NY,house,bathroom_sink,free,surface,0,0,120,80,6.8,18
+fall,12,mains,Newburgh,NY,house,bathroom_sink,free,surface,0.5,0,50,80,6.8,18.8
+fall,13,first_flush,Livingston,MT,house,kitchen_sink,free,ground,0,0,50,240,7.8,18
+fall,13,mains,Livingston,MT,house,kitchen_sink,free,ground,0,0,50,180,7.8,16.5
+fall,14,first_flush,Truckee,CA,house,kitchen_sink,free,ground,0,0,250,180,7.8,16
+fall,14,mains,Truckee,CA,house,kitchen_sink,free,ground,0,0,50,120,7.2,9.8
+fall,15,first_flush,West Palm Beach,FL,house,bathroom_sink,combined,ground,0,0,120,80,6.8,27
+fall,15,mains,West Palm Beach,FL,house,bathroom_sink,combined,ground,0.5,0,120,80,7.2,28.2
+fall,16,first_flush,Tustin,CA,house,bathroom_sink,combined,ground,0,0,120,120,7.8,40
+fall,16,mains,Tustin,CA,house,bathroom_sink,combined,ground,0,0,120,240,7.8,26.7
+fall,17,first_flush,St. Petersburg,FL,apartment,kitchen_sink,combined,blend,0,0,250,240,7.8,25.2
+fall,17,mains,St. Petersburg,FL,apartment,kitchen_sink,combined,blend,4,0,250,240,7.8,26.9
+fall,18,first_flush,El Paso,TX,house,bathroom_sink,free,ground,0,0,120,40,7.2,21.3
+fall,18,mains,El Paso,TX,house,bathroom_sink,free,ground,0.5,0,50,80,6.8,25.8
+fall,19,first_flush,Long Beach,CA,apartment,tub_faucet,combined,blend,0,0,250,180,7.8,22.9
+fall,19,mains,Long Beach,CA,apartment,tub_faucet,combined,blend,0,0,250,180,7.8,24.3
+fall,20,first_flush,El Paso,TX,house,kitchen_sink,free,ground,0.5,0,120,80,7.2,24.7
+fall,20,mains,El Paso,TX,house,kitchen_sink,free,ground,0.5,0,120,120,6.8,23.5
+winter,1,first_flush,Austin,TX,house,bathroom_sink,combined,surface,0,0,50,120,8.4,20.8
+winter,1,mains,Austin,TX,house,bathroom_sink,combined,surface,1,0,50,80,8.4,18.5
+winter,2,first_flush,Clifton,VA,house,bathroom_sink,combined,surface,0,0,250,120,6.8,15
+winter,2,mains,Clifton,VA,house,bathroom_sink,combined,surface,0.5,0,250,120,6.8,13
+winter,3,first_flush,Reston,VA,house,bar_sink,combined,surface,0,0,425,120,8.4,19
+winter,3,mains,Reston,VA,house,bar_sink,combined,surface,0.5,0,250,80,6.8,12
+winter,4,first_flush,Centennial,CO,house,shower,combined,blend,0,0,425,80,7.8,20
+winter,4,mains,Centennial,CO,house,shower,combined,blend,0.5,0,425,80,7.2,18
+winter,5,first_flush,Chicago,IL,condominium,kitchen_sink,free,surface,0,0,425,120,7.8,18
+winter,5,mains,Chicago,IL,condominium,kitchen_sink,free,surface,0.5,0,250,120,6.8,8
+winter,6,first_flush,New York,NY,apartment,bathroom_sink,free,surface,0,0,25,40,6.2,16.5
+winter,6,mains,New York,NY,apartment,bathroom_sink,free,surface,0,0,25,40,6.2,11
+winter,7,first_flush,Pesotum,IL,house,shower,free,ground,0,0,120,180,7.8,12
+winter,7,mains,Pesotum,IL,house,shower,free,ground,0.5,0,120,80,7.2,7.2
+winter,8,first_flush,Astoria,NY,apartment,kitchen_sink,free,surface,0,0,50,40,6.8,24
+winter,8,mains,Astoria,NY,apartment,kitchen_sink,free,surface,0,0,50,40,6.8,22
+winter,9,first_flush,Bloomindale,NJ,house,bathroom_sink,free,surface,0,0,50,120,6.8,18
+winter,9,mains,Bloomindale,NJ,house,bathroom_sink,free,surface,0,0,40,50,6.8,14
+winter,10,first_flush,Bloomington,IN,house,kitchen_sink,combined,surface,0.5,0,120,40,6.8,25.5
+winter,10,mains,Bloomington,IN,house,kitchen_sink,combined,surface,0.5,0,120,40,6.8,10
+winter,11,first_flush,Dallas,TX,apartment,kitchen_sink,free,ground,0,0,425,120,6.8,21.5
+winter,11,mains,Dallas,TX,apartment,kitchen_sink,free,ground,0.5,0,250,80,6.8,19
+winter,12,first_flush,Newburgh,NY,house,bathroom_sink,free,surface,0,0,120,40,6.2,19.5
+winter,12,mains,Newburgh,NY,house,bathroom_sink,free,surface,0,0,120,40,6.2,10.5
+winter,13,first_flush,Livingston,MT,house,kitchen_sink,free,ground,0,0,425,180,7.2,17
+winter,13,mains,Livingston,MT,house,kitchen_sink,free,ground,0,0,425,120,6.8,9
+winter,15,first_flush,West Palm Beach,FL,house,bathroom_sink,combined,ground,0,0,120,80,6.8,25
+winter,15,mains,West Palm Beach,FL,house,bathroom_sink,combined,ground,1,0,120,80,6.8,24
+winter,16,first_flush,Tustin,CA,house,bathroom_sink,combined,ground,0,0,50,180,7.8,17.5
+winter,16,mains,Tustin,CA,house,bathroom_sink,combined,ground,0,0,50,180,7.8,20
+winter,17,first_flush,St. Petersburg,FL,apartment,kitchen_sink,combined,blend,0,0,250,180,7.8,24
+winter,17,mains,St. Petersburg,FL,apartment,kitchen_sink,combined,blend,4,0,250,180,7.2,21.5
+winter,18,first_flush,El Paso,TX,house,bathroom_sink,free,ground,0,0,120,80,6.8,15.4
+winter,18,mains,El Paso,TX,house,bathroom_sink,free,ground,0.5,0,120,80,7.2,31
+winter,19,first_flush,Long Beach,CA,apartment,tub_faucet,combined,blend,0,0,425,180,8.4,NaN
+winter,19,mains,Long Beach,CA,apartment,tub_faucet,combined,blend,0.5,0,425,180,7.8,NaN
