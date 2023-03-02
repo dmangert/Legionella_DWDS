@@ -1,0 +1,77 @@
+﻿season,sample_num,Sample ID,flush,cellular,city,state,chlorine_type,source_water,conc_conv
+summer,1,1-1M3,mains,intra,Austin,TX,combined,surface,1937.8
+summer,1,1-1M0.4,mains,extra,Austin,TX,combined,surface,157013.3333
+summer,1,1-1F3,first_flush,intra,Austin,TX,combined,surface,8236
+summer,1,1-1F0.4,first_flush,extra,Austin,TX,combined,surface,95240
+summer,2,1-2M3,mains,intra,Clifton,VA,combined,surface,0
+summer,2,1-2M0.4,mains,extra,Clifton,VA,combined,surface,21.33333333
+summer,2,1-2F3,first_flush,intra,Clifton,VA,combined,surface,1673.6
+summer,2,1-2F0.4,first_flush,extra,Clifton,VA,combined,surface,10001.33333
+summer,3,1-3M3,mains,intra,Reston,VA,combined,surface,1263.8
+summer,3,1-3M0.4,mains,extra,Reston,VA,combined,surface,774.2
+summer,3,1-3F3,first_flush,intra,Reston,VA,combined,surface,996.6
+summer,3,1-3F0.4,first_flush,extra,Reston,VA,combined,surface,1202
+summer,4,1-4M3,mains,intra,Centennial,CO,combined,blend,4514
+summer,4,1-4M0.4,mains,extra,Centennial,CO,combined,blend,1720.2
+summer,4,1-4F3,first_flush,intra,Centennial,CO,combined,blend,24410
+summer,4,1-4F0.4,first_flush,extra,Centennial,CO,combined,blend,26130
+summer,5,1-5M3,mains,intra,Chicago,IL,free,surface,729.6
+summer,5,1-5M0.4,mains,extra,Chicago,IL,free,surface,65220
+summer,5,1-5F3,first_flush,intra,Chicago,IL,free,surface,906.6
+summer,5,1-5F0.4,first_flush,extra,Chicago,IL,free,surface,3274.6
+summer,6,1-6M3,mains,intra,New York,NY,free,surface,5744
+summer,6,1-6M0.4,mains,extra,New York,NY,free,surface,0
+summer,6,1-6F3,first_flush,intra,New York,NY,free,surface,303.4
+summer,6,1-6F0.4,first_flush,extra,New York,NY,free,surface,NaN
+summer,7,1-7M3,mains,intra,Pesotum,IL,free,ground,661.2
+summer,7,1-7M0.4,mains,extra,Pesotum,IL,free,ground,483.2
+summer,7,1-7F3,first_flush,intra,Pesotum,IL,free,ground,368.4
+summer,7,1-7F0.4,first_flush,extra,Pesotum,IL,free,ground,529.8
+summer,8,1-8M3,mains,intra,Astoria,NY,free,surface,1064.8
+summer,8,1-8M0.4,mains,extra,Astoria,NY,free,surface,10.4
+summer,8,1-8F3,first_flush,intra,Astoria,NY,free,surface,942.6
+summer,8,1-8F0.4,first_flush,extra,Astoria,NY,free,surface,0
+summer,9,1-9M3,mains,intra,Bloomingdale,NJ,free,surface,2841.4
+summer,9,1-9M0.4,mains,extra,Bloomingdale,NJ,free,surface,292.8
+summer,9,1-9F3,first_flush,intra,Bloomingdale,NJ,free,surface,335
+summer,9,1-9F0.4,first_flush,extra,Bloomingdale,NJ,free,surface,44840
+summer,10,1-10M3,mains,intra,Bloomington,IN,combined,surface,740.2
+summer,10,1-10M0.4,mains,extra,Bloomington,IN,combined,surface,6162
+summer,10,1-10F3,first_flush,intra,Bloomington,IN,combined,surface,54.2
+summer,10,1-10F0.4,first_flush,extra,Bloomington,IN,combined,surface,8430
+summer,11,1-11M3,mains,intra,Dallas,TX,combined,surface,828.6
+summer,11,1-11M0.4,mains,extra,Dallas,TX,combined,surface,NaN
+summer,11,1-11F3,first_flush,intra,Dallas,TX,combined,surface,531
+summer,11,1-11F0.4,first_flush,extra,Dallas,TX,combined,surface,58360
+summer,12,1-12M3,mains,intra,Newburgh,NY,free,surface,209.6
+summer,12,1-12M0.4,mains,extra,Newburgh,NY,free,surface,1702.6
+summer,12,1-12F3,first_flush,intra,Newburgh,NY,free,surface,820.2
+summer,12,1-12F0.4,first_flush,extra,Newburgh,NY,free,surface,337.8
+summer,13,1-13M3,mains,intra,Livingston,MT,free,ground,1769.2
+summer,13,1-13M0.4,mains,extra,Livingston,MT,free,ground,1337
+summer,13,1-13F3,first_flush,intra,Livingston,MT,free,ground,795.6
+summer,13,1-13F0.4,first_flush,extra,Livingston,MT,free,ground,21142
+summer,14,1-14M3,mains,intra,Truckee,CA,free,ground,517.2
+summer,14,1-14M0.4,mains,extra,Truckee,CA,free,ground,702.8
+summer,14,1-14F3,first_flush,intra,Truckee,CA,free,ground,258.6
+summer,14,1-14F0.4,first_flush,extra,Truckee,CA,free,ground,219.2
+summer,15,1-15M3,mains,intra,West Palm Beach,FL,combined,ground,286.8
+summer,15,1-15M0.4,mains,extra,West Palm Beach,FL,combined,ground,1944.8
+summer,15,1-15F3,first_flush,intra,West Palm Beach,FL,combined,ground,99.4
+summer,15,1-15F0.4,first_flush,extra,West Palm Beach,FL,combined,ground,273.4
+summer,16,1-16M3,mains,intra,Tustin,CA,combined,ground,54.4
+summer,16,1-16M0.4,mains,extra,Tustin,CA,combined,ground,194.6
+summer,16,1-16F3,first_flush,intra,Tustin,CA,combined,ground,284.6
+summer,16,1-16F0.4,first_flush,extra,Tustin,CA,combined,ground,591.8
+summer,17,1-17M3,mains,intra,St. Petersburg,FL,combined,blend,32.2
+summer,17,1-17M0.4,mains,extra,St. Petersburg,FL,combined,blend,4788
+summer,17,1-17F3,first_flush,intra,St. Petersburg,FL,combined,blend,177.4
+summer,17,1-17F0.4,first_flush,extra,St. Petersburg,FL,combined,blend,286.8
+summer,18,1-18M3,mains,intra,El Paso,TX,free,ground,249.4
+summer,18,1-18M0.4,mains,extra,El Paso,TX,free,ground,295.2
+summer,18,1-18F3,first_flush,intra,El Paso,TX,free,ground,393.2
+summer,18,1-18F0.4,first_flush,extra,El Paso,TX,free,ground,498.8
+summer,19,1-19M3,mains,intra,Long Beach,CA,combined,blend,0
+summer,19,1-19M0.4,mains,extra,Long Beach,CA,combined,blend,14882
+summer,19,1-19F3,first_flush,intra,Long Beach,CA,combined,blend,94.8
+summer,19,1-19F0.4,first_flush,extra,Long Beach,CA,combined,blend,33608
