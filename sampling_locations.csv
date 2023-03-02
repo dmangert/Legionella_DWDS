@@ -1,20 +1,20 @@
-Location,Lat,Long,chlorine,source,color
-"Austin, TX",30.267153,-97.743057,combined,surface,blue
-"Clifton, VA",38.77999073,-77.38993266,combined,surface,blue
-"Reston, VA",38.95863,-77.357002,combined,surface,blue
-"Centennial, CO",39.580746,-104.877174,combined,blend,gray
-"Chicago, IL",41.878113,-87.629799,free,surface,green
-"New York, NY",40.712775,-74.005973,free,surface,green
-"Pesotum, IL",39.91315333,-88.27399594,free,ground,red
-"Astoria, NY",40.76718589,-73.92501814,free,surface,green
-"Bloomingdale, NJ",41.03380875,-74.33550575,free,surface,green
-"Bloomington, IN",39.16373897,-86.52395189,combined,surface,blue
-"Dallas, TX",32.79948592,-96.79390922,combined,surface,blue
-"Newburgh, NY",41.5060142,-74.02153948,free,surface,green
-"Livingston, MT",45.66355924,-110.5534004,free,ground,red
-"Truckee, CA",39.3381976,-120.1894378,combined,ground,orange
-"West Palm Beach, FL",26.71237796,-80.05326464,combined,ground,orange
-"Tustin, CA",33.7278595,-117.8180811,combined,ground,orange
-"St. Petersburg, FL",27.77908039,-82.66108534,combined,blend,gray
-"El Paso, TX",31.82071965,-106.4618078,free,ground,red
-"Long Beach, CA",33.78392489,-118.1808311,combined,blend,gray
+Location,Lat,Long,chlorine,source,color,shape
+"Austin, TX",30.267153,-97.743057,combined,surface,blue,o
+"Clifton, VA",38.77999073,-77.38993266,combined,surface,blue,o
+"Reston, VA",38.95863,-77.357002,combined,surface,blue,o
+"Centennial, CO",39.580746,-104.877174,combined,blend,orange,o
+"Chicago, IL",41.878113,-87.629799,free,surface,blue,s
+"New York, NY",40.712775,-74.005973,free,surface,blue,s
+"Pesotum, IL",39.91315333,-88.27399594,free,ground,red,s
+"Astoria, NY",40.76718589,-73.92501814,free,surface,blue,s
+"Bloomingdale, NJ",41.03380875,-74.33550575,free,surface,blue,s
+"Bloomington, IN",39.16373897,-86.52395189,combined,surface,blue,o
+"Dallas, TX",32.79948592,-96.79390922,combined,surface,blue,o
+"Newburgh, NY",41.5060142,-74.02153948,free,surface,blue,s
+"Livingston, MT",45.66355924,-110.5534004,free,ground,red,s
+"Truckee, CA",39.3381976,-120.1894378,combined,ground,red,o
+"West Palm Beach, FL",26.71237796,-80.05326464,combined,ground,red,o
+"Tustin, CA",33.7278595,-117.8180811,combined,ground,red,o
+"St. Petersburg, FL",27.77908039,-82.66108534,combined,blend,orange,o
+"El Paso, TX",31.82071965,-106.4618078,free,ground,red,s
+"Long Beach, CA",33.78392489,-118.1808311,combined,blend,orange,o
